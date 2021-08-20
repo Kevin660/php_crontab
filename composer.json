@@ -1,0 +1,12 @@
+{
+    "name": "user/crontab",
+    "authors": [
+        {
+            "name": "Kevin",
+            "email": "19980726kevin@gmail.com"
+        }
+    ],
+    "require": {
+        "mtdowling/cron-expression": "^1.2"
+    }
+}
